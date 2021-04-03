@@ -17,6 +17,10 @@ const  lancamentos = [
     descricao:'pagamento',
     valor: -500.00
     },
+    { data: '2021-04-03,',
+    descricao:'Mercado',
+    valor: -450.00
+    },
 ]
 
 const app = express();
