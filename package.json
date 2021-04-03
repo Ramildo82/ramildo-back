@@ -1,0 +1,23 @@
+{
+  "name": "ramildo-back",
+  "version": "1.0.0",
+  "description": "\"# ramildo-back\"  \r \"# ramildo-back\"  git init git add README.md git commit -m \"first commit\" git branch -M main git remote add origin https://github.com/Ramildo82/ramildo-back. git  git push -u origin main\r \"# ramildo-back\"  git init git add README.md git commit -m \"first commit\" git branch -M main git remote add origin https://github.com/Ramildo82/ramildo-back. git  git push -u origin main\r \"# ramildo-back\"  git init git add README.md git commit -m \"first commit\" git branch -M main git remote add origin https://github.com/Ramildo82/ramildo-back. git  git push -u origin main\r \"# ramildo-back\"  git init git add README.md git commit -m \"first commit\" git branch -M main git remote add origin https://github.com/Ramildo82/ramildo-back. git  git push -u origin main\r \"# ramildo-back\"  git init git add README.md git commit -m \"first commit\" git branch -M main git remote add origin https://github.com/Ramildo82/ramildo-back. git  git push -u origin main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramildo82/ramildo-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramildo82/ramildo-back/issues"
+  },
+  "homepage": "https://github.com/Ramildo82/ramildo-back#readme"
+}
